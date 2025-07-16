@@ -25,3 +25,6 @@ SAMPLE() {
 SAMPLE
 SAMPLE
 
+# Variables in functions
+# acts as placeholders for data, storing values that can be used and modified inside the function scope.
+# functions can accept input values through parameters, 
